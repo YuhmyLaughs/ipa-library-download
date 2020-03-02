@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.anysite.com/application/your_app.ipa</string>
+                    <string>https://pedro3pv.github.io/ipa-library-download/your_app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.helloworld</string>
+                <string>com.pedro3pv.8BallPoolhack</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
