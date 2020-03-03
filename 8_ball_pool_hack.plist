@@ -16,13 +16,13 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key>
-                <string>com.pedro3pv.8BallPoolhack</string>
+                <key>543186831</key>
+                <string>com.miniclip.8BallPoolhack</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
-                <string>software</string>
-                <key>title</key>
+                <string>8_ball_pool</string>
+                <key>8_ball_pool_hack</key>
                 <string>HELLO</string>
             </dict>
         </dict>
